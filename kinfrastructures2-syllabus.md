@@ -3,7 +3,7 @@ CUNY Graduate Center * Mondays 4:15PM-6:15PM * Room 3310A * 2/3/4 credits
 
 Course Website: https://kinfrastructures2.commons.gc.cuny.edu/ or http://cuny.is/kinfrastructures2
 
-Course Group: [https://commons.gc.cuny.edu/groups/engl-89500-knowledge-infrastructures/](https://commons.gc.cuny.edu/groups/knowledge-infrastructures-2/) or http://cuny.is/kinfrastructures2group
+Course Group: https://commons.gc.cuny.edu/groups/knowledge-infrastructures-2/ or http://cuny.is/kinfrastructures2group
 
 # Contact Info
 [Dr. Matthew K. Gold](http://mkgold.net) 
