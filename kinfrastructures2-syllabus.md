@@ -183,7 +183,7 @@ some possibilities: Open Source, Open Access, Knowledge Infrastructures of the G
 
 * Michael Fabricant and Stephen Brier. *Austerity Blues: Fighting for the Soul of Public Higher Education*. Baltimore: Johns Hopkins University Press, 2016. (Excerpts) (PDF) 
 
-* Stefano Harney and Fred Moten. *The Undercommons: Fugitive Planning & Black Study*. Wivenhoe: Minor Compositions, 2013. (Excerpts) (PDF)
+* Stefano Harney and Fred Moten. *[The Undercommons: Fugitive Planning & Black Study](https://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf)*. Wivenhoe: Minor Compositions, 2013. (Excerpts) 
 
 * Ned Rossiter, *Software, Infrastructure, Labor* (Chapter 5: "New Regimes of Knowledge Production") (PDF)
 
