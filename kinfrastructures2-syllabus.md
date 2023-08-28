@@ -138,10 +138,13 @@ Nature and Space. https://doi.org/10.1177/2514848619867608.
 * Other readings TBA
 
 
-## October 16 (Monday) - The Knowledge Commons In Dollars and Cents
+## October 16 (Monday) - The Knowledge Commons, Monetized
 * Sarah Lamdan, *Data Cartels: The Companies That Control and Monopolize Our Information* (excerpts)
 
-* [SPARC* 2019 Landscape Analysis: The Changing Academic Publishing Industry – Implications for Academic Institutions](https://sparcopen.org/our-work/landscape-analysis/). 
+* [SPARC* 2019 Landscape Analysis: The Changing Academic Publishing Industry – Implications for Academic Institutions](https://sparcopen.org/our-work/landscape-analysis/).
+
+* Sarah Kember and Amy Brand, "
+
 
 
 ## October 23 (Monday) -- Open Topic TBA
@@ -188,7 +191,7 @@ some possibilities: Open Source, Open Access, Knowledge Infrastructures of the G
 * Ned Rossiter, *Software, Infrastructure, Labor* (Chapter 5: "New Regimes of Knowledge Production") (PDF)
 
 
-## November 27 (Monday) - Technical Affordances
+## November 27 (Monday) - Geopolitics of Technical Infrastructures
 
 * Starosielski, Nicole. "Fixed flow: Undersea cables as media infrastructure." In *Signal Traffic: Critical Studies of Media Infrastructures.* Urbana, Ill.: University of Illinois Press, 2015. (PDF)
 
