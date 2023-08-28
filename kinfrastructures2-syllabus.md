@@ -1,9 +1,9 @@
 # ENGL 89600/DHUM 78000 - Knowledge Infrastructures 
 CUNY Graduate Center * Mondays 4:15PM-6:15PM * Room 3310A * 2/3/4 credits
 
-Course Website: https://kinfrastructures2.commons.gc.cuny.edu/ or http://cuny.is/kinfrastructures2
+[Course Website](https://kinfrastructures2.commons.gc.cuny.edu/ or http://cuny.is/kinfrastructures2) Public
 
-Course Group: https://commons.gc.cuny.edu/groups/knowledge-infrastructures-2/ or http://cuny.is/kinfrastructures2group
+[Course Group](https://commons.gc.cuny.edu/groups/knowledge-infrastructures-2/ or http://cuny.is/kinfrastructures2group) Private
 
 # Contact Info
 [Dr. Matthew K. Gold](http://mkgold.net) 
