@@ -39,48 +39,49 @@ Topics to be explored include: introductions to critical infrastructure studies 
 # Student Disability Services
 It is Graduate Center and CUNY policy to provide appropriate accommodations to students with disabilities. Any student with a disability who may need accommodations in this class is advised to speak directly to the manager of [Student Disability Services](http://cuny.is/disabilityservices), located in Student Affairs, room 7301, or call 212-817-7400 as early in the semester as possible. All discussions will remain confidential.
 
+# Requirements and Assignments
 
-# Requirements and Structure
 ## Weekly Reading and Discussion:
 Students should complete all weekly readings in advance of the class meeting and should take an active part in class discussions.
 
-# Assignments
 ## Blog Posts and Class Discussions
 Each week, one student will write a response to the assigned readings, to be posted by Tuesday morning the day before the class in which those readings will be discussed. These posts should offer a brief 1-2 paragraph response to the course texts and then should provide a set of 4-5 questions for group discussion. The post may also provide links to relevant related readings and resources. In class that day, that student will frame and initiate our discussion in class that week.
 
 Other assignments should be posted to the blog as suggested below. Generally, we should try to use our course blog as a way to share information with each other and anyone else following the course from afar. Students who prefer to post privately may use our agreed-upon password to protect their posts.
 
-### Personal Narrative
+## Personal Narrative
 Write a short (~500 word) blog post about some aspect of your personal knowledge infrastructure. You might think about how you keep track of citations, how you take notes, how you store/annotate academic articles, how you access academic texts, what systems you use to write, which platforms you use to search for academic articles, how you find new work in your field. In your post, do some work to extend your knowledge of the infrastructure surrounding your topic/tool/platform and reflect a bit on your choices. What systems does your chosen method rely upon? What aspects are you in control of, and what are you not? What alternatives exist, and why might or might not you want to consider them? 
 
-### Trace a Knowledge Infrastructure
+## Trace a Knowledge Infrastructure
 In the spirit of Miriam Posner's explorations of the infrastructure of the supply chain, document the material basis of a knowledge infrastructure of some kind. You might explore, for instance, a journal in your field. Who publishes it? What publication platform is used to publish the work? Who owns the systems of distribution? What agreements are formed between the publisher and universities to provide access to the publication? What kinds of legal contracts or agreements can you unearth? What kind of labor is involved in the production of the journal? Similar analysis might be performed on learning management systems, university-procured services and contracts, and buildings and spaces. To complete the assignment, please post a short (~500-750 word) blog post and make an informal presentation on your topic to the class
 
-### Collective Intervention in GC/CUNY Knowledge Infrastructures (Final Project)
+## Collective Intervention in GC/CUNY Knowledge Infrastructures (Final Project)
 Through class discussions, we will come to a consensus on an intervention that we will collectively make into the knowledge infrastructures at the GC or in CUNY.
 
 Students should complete a 500-word reflection on the collective intervention, to be posted on the course blog, due December 15.
 
-# Differential Credit Requirements:
+# Grading
+Regular participation in our class discussions and online spaces is expected and essential. All students will receive a grade of A for completing the assignments associated with their differential credit requirements. Students who are unable to complete assignments associated with differential credit requirements should write a short self-assessment, to be shared with me, explaining the grade they would like to receive for this course. For more on this grading policy, please see recent work on the topic of [ungrading](https://learninginnovation.duke.edu/blog/2022/09/what-is-ungrading/).
+
+Differential Credit Requirements:
 * 2 credits: all assignments except Personal Narrative and Trace a Knowledge Infrastructure
 * 3 credits: all assignments except Trace a Knowledge Infrastructure
 * 4 credits: All assignments
 
-# Grading
-Regular participation in our class discussions and online spaces is expected and essential. All students will receive a grade of A for completing the assignments associated with their differential credit requirements. Students who are unable to complete assignments associated with differential credit requirements should write a short self-assessment, to be shared with me, explaining the grade they would like to receive for this course. For more on this grading policy, please see recent work on the topic of [ungrading](https://learninginnovation.duke.edu/blog/2022/09/what-is-ungrading/).
+
 
 # Reading Schedule 
 *items marked PDF will be uploaded to our [course group](https://commons.gc.cuny.edu/groups/engl-89500-knowledge-infrastructures/library/#/)*
 
 ## August 28 (Monday) - Points of Departure
 
-*What is "infrastructure"? What is knowledge? What systems do we use ourselves, and what systems do those systems depend on? What issues are most important to us to explore this semester, and how can we together design a course that provides a meaningful learning experience for all of us?*
-
 * "[What is a Data Center?](https://www.youtube.com/watch?v=kfvbCggY_nI)" Anixter. *YouTube* 27 July 2015.
 
-* Levin, Boaz and Ryan Jeffery. ["All That is Solid Melts Into Air" (excerpt)](http://spheres-journal.org/all-that-is-solid-melts-into-data/). *Places Journal*. June 2016.
-
 * "[Inside a Google Data Center.](https://www.youtube.com/watch?v=XZmGGAbHqa0)" G Suite. *YouTube*. 16 December 2014.
+
+* "[The Hidden Pollution of the Internet](https://www.youtube.com/watch?v=GX8sOrz_-Fg)." France 24 English. 3 March 2017.
+
+* Levin, Boaz and Ryan Jeffery. ["All That is Solid Melts Into Air" (excerpt)](http://spheres-journal.org/all-that-is-solid-melts-into-data/). *Places Journal*. June 2016.
 
 
 ## September 4 (Monday) – no class. GC closed
@@ -131,7 +132,7 @@ Nature and Space. https://doi.org/10.1177/2514848619867608.
 
 ## October 10 (Tuesday) – classes follow a Monday schedule -- Approaching the Knowledge Commons
 
-* Selections from Understanding Knowledge as a Commons 
+* Selections from *Understanding Knowledge as a Commons*
 
 * David Harvey; The Future of the Commons. Radical History Review 1 January 2011; 2011 (109): 101–107. https://davidharvey.org/media/Harvey_on_the_Commons.pdf
 
