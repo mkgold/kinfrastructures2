@@ -44,7 +44,7 @@ It is Graduate Center and CUNY policy to provide appropriate accommodations to s
 ## Weekly Reading and Discussion:
 Students should complete all weekly readings in advance of the class meeting and should take an active part in class discussions.
 
-## Assignments
+# Assignments
 ## Blog Posts and Class Discussions
 Each week, one student will write a response to the assigned readings, to be posted by Tuesday morning the day before the class in which those readings will be discussed. These posts should offer a brief 1-2 paragraph response to the course texts and then should provide a set of 4-5 questions for group discussion. The post may also provide links to relevant related readings and resources. In class that day, that student will frame and initiate our discussion in class that week.
 
@@ -62,8 +62,8 @@ Through class discussions, we will come to a consensus on an intervention that w
 Students should complete a 500-word reflection on the collective intervention, to be posted on the course blog, due December 15.
 
 # Differential Credit Requirements:
-* 2 credits: all assignments except Personal Narrative and Ethnography Project
-* 3 credits: all assignments except Ethnography Project
+* 2 credits: all assignments except Personal Narrative and Trace a Knowledge Infrastructure
+* 3 credits: all assignments except Trace a Knowledge Infrastructure
 * 4 credits: All assignments
 
 # Grading
