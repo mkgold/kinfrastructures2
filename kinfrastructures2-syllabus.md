@@ -10,8 +10,6 @@ Course Group: https://commons.gc.cuny.edu/groups/engl-89500-knowledge-infrastruc
 
 [mgold@gc.cuny.edu](mailto:mgold@gc.cuny.edu)
 
-(212) 817-7256
-
 Meetings: Please contact [Oliver Sage](osage@gradcenter.cuny.edu) to make an appointment with me. Please do not hesitate to get in touch if you want to talk.
 
 Room 5307.04
