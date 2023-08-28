@@ -45,7 +45,7 @@ It is Graduate Center and CUNY policy to provide appropriate accommodations to s
 Students should complete all weekly readings in advance of the class meeting and should take an active part in class discussions.
 
 ## Blog Posts and Class Discussions
-Each week, one student will write a response to the assigned readings, to be posted by Tuesday morning the day before the class in which those readings will be discussed. These posts should offer a brief 1-2 paragraph response to the course texts and then should provide a set of 4-5 questions for group discussion. The post may also provide links to relevant related readings and resources. In class that day, that student will frame and initiate our discussion in class that week.
+Each week, one student will write a response to the assigned readings, to be posted by Tuesday morning the day before the class in which those readings will be discussed. These posts should offer a brief 1-2 paragraph response to the course texts and then should provide a set of 4-5 questions for group discussion. The post may also provide links to relevant related readings and resources. In class that day, that student will frame and initiate our discussion in class that week. [Sign up for slots here](https://www.signupgenius.com/go/4090E4AAFA929A46-knowledge1).
 
 Other assignments should be posted to the blog as suggested below. Generally, we should try to use our course blog as a way to share information with each other and anyone else following the course from afar. Students who prefer to post privately may use our agreed-upon password to protect their posts.
 
@@ -64,9 +64,9 @@ Students should complete a 500-word reflection on the collective intervention, t
 Regular participation in our class discussions and online spaces is expected and essential. All students will receive a grade of A for completing the assignments associated with their differential credit requirements. Students who are unable to complete assignments associated with differential credit requirements should write a short self-assessment, to be shared with me, explaining the grade they would like to receive for this course. For more on this grading policy, please see recent work on the topic of [ungrading](https://learninginnovation.duke.edu/blog/2022/09/what-is-ungrading/).
 
 Differential Credit Requirements:
-* 2 credits: all assignments except Personal Narrative and Trace a Knowledge Infrastructure
-* 3 credits: all assignments except Trace a Knowledge Infrastructure
-* 4 credits: All assignments
+* 2 credits: 1 discussion lead + all assignments except Personal Narrative and Trace a Knowledge Infrastructure
+* 3 credits: 1 discussion lead + all assignments except Trace a Knowledge Infrastructure
+* 4 credits: 2 discussion leads + all assignments
 
 
 
@@ -113,6 +113,8 @@ Differential Credit Requirements:
 * Matthew Kirschenbaum, "Bibliologistics: The Nature of Books Now, or A Memorable Fancy"
 *Public Books* 31 March 2017. https://post45.org/2020/04/bibliologistics-the-nature-of-books-now-or-a-memorable-fancy/
 
+**Personal Narrative Assignment Due**
+
 
 ## September 25 (Monday) – no class. GC closed
 
@@ -137,6 +139,8 @@ Nature and Space. https://doi.org/10.1177/2514848619867608.
 * David Harvey; The Future of the Commons. Radical History Review 1 January 2011; 2011 (109): 101–107. https://davidharvey.org/media/Harvey_on_the_Commons.pdf
 
 * Other readings TBA
+
+**Trace a Knowledge Infrastructure Assignment Due**
 
 
 ## October 16 (Monday) - The Knowledge Commons, Monetized
@@ -203,6 +207,11 @@ some possibilities: Open Source, Open Access, Knowledge Infrastructures of the G
 
 
 ## December 11 (Monday) - Collective Intervention Presentation and Discussion
+
+**Collective Intervention Due**
+
+## December 15
+**Reflections on Collective Intervention Due**
 
 
 
