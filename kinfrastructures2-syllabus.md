@@ -93,6 +93,9 @@ Differential Credit Requirements:
 
 * Bowker, Geoffrey C. and Susan Leigh Star. *Sorting Things Out: Classification and Its Consequences* (selections: "Some Tricks of the Trade in Analyzing Classification"; "Categorical Work and Boundary Infrastructures: Enriching Theories of Classification"). Cambridge, Mass.: MIT Press, 1999. (PDF)
 
+* Kavita Philip, "The Internet Will Be Decolonized." *Your Computer is On Fire." Eds. Thomas S. Mullaney, Benjamin Peters,
+Mar Hicks, and Kavita Philip. The MIT Press: Cambridge, Massachusetts, 2021. (PDF)
+
 * Larkin, Brian, “The Politics and Poetics of Infrastructure.” *Annual Review of Anthropology*, Vol. 42, 2013, pp. 327-343. (PDF)
 
 * Lisa Parks, “‘Stuff You Can Kick’: Toward a Theory of Media Infrastructures” (2015) (PDF)
