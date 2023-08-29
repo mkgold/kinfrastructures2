@@ -114,7 +114,7 @@ Mar Hicks, and Kavita Philip. The MIT Press: Cambridge, Massachusetts, 2021. (PD
 * Matthew Kirschenbaum, "Bibliologistics: The Nature of Books Now, or A Memorable Fancy"
 *Public Books* 31 March 2017. https://post45.org/2020/04/bibliologistics-the-nature-of-books-now-or-a-memorable-fancy/
 
-**Personal Narrative Assignment Due**
+**-->Personal Narrative Assignment Due**
 
 
 ## September 25 (Monday) – no class. GC closed
@@ -141,7 +141,7 @@ Nature and Space. https://doi.org/10.1177/2514848619867608.
 
 * Other readings TBA
 
-**Trace a Knowledge Infrastructure Assignment Due**
+**-->Trace a Knowledge Infrastructure Assignment Due**
 
 
 ## October 16 (Monday) - The Knowledge Commons, Monetized
@@ -209,10 +209,10 @@ some possibilities: Open Source, Open Access, Knowledge Infrastructures of the G
 
 ## December 11 (Monday) - Collective Intervention Presentation and Discussion
 
-**Collective Intervention Due**
+**-->Collective Intervention Due**
 
 ## December 15
-**Reflections on Collective Intervention Due**
+**-->Reflections on Collective Intervention Due**
 
 
 
