@@ -91,8 +91,6 @@ Differential Credit Requirements:
 
 * Star, Susan Leigh. “The Ethnography of Infrastructure." *American Behavioral Scientist*, vol. 43.4, 1 November 1999. (PDF)
 
-* Bowker, Geoffrey C. and Susan Leigh Star. *Sorting Things Out: Classification and Its Consequences* (selections: "Some Tricks of the Trade in Analyzing Classification"; "Categorical Work and Boundary Infrastructures: Enriching Theories of Classification"). Cambridge, Mass.: MIT Press, 1999. (PDF)
-
 * Kavita Philip, "The Internet Will Be Decolonized." *Your Computer is On Fire." Eds. Thomas S. Mullaney, Benjamin Peters,
 Mar Hicks, and Kavita Philip. The MIT Press: Cambridge, Massachusetts, 2021. (PDF)
 
