@@ -45,7 +45,7 @@ It is Graduate Center and CUNY policy to provide appropriate accommodations to s
 Students should complete all weekly readings in advance of the class meeting and should take an active part in class discussions.
 
 ## Blog Posts and Class Discussions
-Each week, one student will write a response to the assigned readings, to be posted by Tuesday morning the day before the class in which those readings will be discussed. These posts should offer a brief 1-2 paragraph response to the course texts and then should provide a set of 4-5 questions for group discussion. The post may also provide links to relevant related readings and resources. In class that day, that student will frame and initiate our discussion in class that week. [Sign up for slots here](https://www.signupgenius.com/go/4090E4AAFA929A46-knowledge1).
+Each week, one student will write a response to the assigned readings, to be posted by Sunday morning the day before the class in which those readings will be discussed. These posts should offer a brief 1-2 paragraph response to the course texts and then should provide a set of 4-5 questions for group discussion. The post may also provide links to relevant related readings and resources. In class that day, that student will frame and initiate our discussion in class that week. [Sign up for slots here](https://www.signupgenius.com/go/4090E4AAFA929A46-knowledge1).
 
 Other assignments should be posted to the blog as suggested below. Generally, we should try to use our course blog as a way to share information with each other and anyone else following the course from afar. Students who prefer to post privately may use our agreed-upon password to protect their posts.
 
@@ -149,7 +149,7 @@ Nature and Space. https://doi.org/10.1177/2514848619867608.
 
 * [SPARC* 2019 Landscape Analysis: The Changing Academic Publishing Industry – Implications for Academic Institutions](https://sparcopen.org/our-work/landscape-analysis/).
 
-* Sarah Kember and Amy Brand, "
+* Sarah Kember and Amy Brand, "[The Corporate Capture of Open-Access Publishing](https://www.chronicle.com/article/the-corporate-capture-of-open-access-publishing)." *Chronicle of Higher Education*. 16 August 2023.
 
 
 
