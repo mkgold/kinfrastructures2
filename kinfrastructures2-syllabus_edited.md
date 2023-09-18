@@ -98,8 +98,6 @@ Differential Credit Requirements:
 
 * Lisa Parks, “‘Stuff You Can Kick’: Toward a Theory of Media Infrastructures” *Between Humanities and the Digital*, edited by Patrik Svensson and David Theo Goldberg, The MIT Press: Cambridge, Massachusetts, 2015, pp. 355-373. PDF file.
 
-* Edwards, Paul N. "Platforms are Infrastructures on Fire." *Your Computer is On Fire*, edited by Thomas S. Mullaney et al., The MIT Press: Cambridge, Massachusetts, 2021, pp. 314-336. PDF file.
-
 * Liu, Alan. “Drafts for Against the Cultural Singularity (book in progress).” 2016. doi:10.21972/G2B663. https://dev-liu-english-ucsb-edu-v01.pantheonsite.io/drafts-for-against-the-cultural-singularity.
 
 
@@ -129,6 +127,7 @@ Differential Credit Requirements:
 political ecology of Bitcoin mining on the Columbia River.” *Environment and Planning E:
 Nature and Space*, vol. 5, no. 1, 2019. https://doi.org/10.1177/2514848619867608.
 
+* Ensmenger, Nathan. "The Cloud is a Factory." *Your Computer is On Fire*, edited by Thomas S. Mullaney et al., The MIT Press: Cambridge, Massachusetts, 2021, pp. 314-336. PDF file.
 
 ## October 9 (Monday) – no class. GC closed
 
@@ -172,6 +171,8 @@ Some possibilities: Open Source, Open Access, Knowledge Infrastructures of the G
 
 
 ## November 6 (Monday) &ndash; Platform Infrastructures
+
+* Edwards, Paul N. "Platforms are Infrastructures on Fire." *Your Computer is On Fire*, edited by Thomas S. Mullaney et al., The MIT Press: Cambridge, Massachusetts, 2021, pp. 314-336. PDF file.
 
 * Srnicek, Nick. *Platform Capitalism* (selections), 2016. PDF file.
 
