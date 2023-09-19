@@ -101,7 +101,7 @@ Differential Credit Requirements:
 * Liu, Alan. “Drafts for Against the Cultural Singularity (book in progress).” 2016. doi:10.21972/G2B663. https://dev-liu-english-ucsb-edu-v01.pantheonsite.io/drafts-for-against-the-cultural-singularity.
 
 
-## September 18 (Monday) &ndash; Hard Infrastructures: Logistics, Standards, Supply Chains
+## September 18 (Monday) &ndash; Hard and Soft Infrastructures: Logistics, Standards, Supply Chains
 
 * Rossiter, Ned. *Software, Infrastructure, Labor* (selections). 2016. PDF file.
 
@@ -121,7 +121,7 @@ Differential Credit Requirements:
 ## October 2 (Monday) &ndash; Infrastructure, Technology, Ecology
 * Jackson, Stephen. "Rethinking Repair." *Media Technologies: Essays on Communication, Materiality, and Society*, edited by Tarleton Gillespie et al., MIT Press Scholarship Online, 2014. pp. 221-239. PDF file.
 
-* Mukherjee, Rahul. *Radiant Infrastructures: Media, Environment, and Cultures of Uncertainty* (selections). 2020.
+* Mukherjee, Rahul. *Radiant Infrastructures: Media, Environment, and Cultures of Uncertainty* (selections). 2020. PDF file.
 
 * Lally, Nick et al. “Computational parasites and hydropower: A
 political ecology of Bitcoin mining on the Columbia River.” *Environment and Planning E:
@@ -137,6 +137,8 @@ Nature and Space*, vol. 5, no. 1, 2019. https://doi.org/10.1177/2514848619867608
 * Hess, Charlotte, and Elinor Ostrom, editors. *Understanding Knowledge as a Commons: From Theory to Practice* (selections). 2006.
 
 * Harvey, David. "The Future of the Commons." *Radical History Review*, vol. 2011, no. 109, 2011, pp. 101–107, https://davidharvey.org/media/Harvey_on_the_Commons.pdf.
+
+* Kathleen Fitzpatrick, "Working in Public." In Generous Thinking. Baltimore: Johns Hopkins University Press, 2019.
 
 * Other readings TBA
 
