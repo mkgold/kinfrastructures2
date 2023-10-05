@@ -134,13 +134,12 @@ Nature and Space*, vol. 5, no. 1, 2019. https://doi.org/10.1177/2514848619867608
 
 ## October 10 (Tuesday) – classes follow a Monday schedule -- Approaching the Knowledge Commons
 
-* Hess, Charlotte, and Elinor Ostrom, editors. *Understanding Knowledge as a Commons: From Theory to Practice* (selections). 2006.
+* Hess, Charlotte, and Elinor Ostrom, editors. *Understanding Knowledge as a Commons: From Theory to Practice* (selections). 2006. Please read Charlotte Hess and Elinor Ostrum, "Introduction: An Overview of the Knowledge Commons"; David Bollier, "The Growth of the Commons Paradigm"; Nancy Kranich, "Countering Enclosure: Reclaiming the Knowledge Commons"
 
 * Harvey, David. "The Future of the Commons." *Radical History Review*, vol. 2011, no. 109, 2011, pp. 101–107, https://davidharvey.org/media/Harvey_on_the_Commons.pdf.
 
-* Kathleen Fitzpatrick, "Working in Public." In Generous Thinking. Baltimore: Johns Hopkins University Press, 2019.
+* Kathleen Fitzpatrick, "Working in Public." In *Generous Thinking*. Baltimore: Johns Hopkins University Press, 2019.
 
-* Other readings TBA
 
 **Trace a Knowledge Infrastructure Assignment Due**
 
