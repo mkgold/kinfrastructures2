@@ -140,6 +140,8 @@ Nature and Space*, vol. 5, no. 1, 2019. https://doi.org/10.1177/2514848619867608
 
 * Kathleen Fitzpatrick, "Working in Public." In *Generous Thinking*. Baltimore: Johns Hopkins University Press, 2019.
 
+* Lawerence Lessig. "Free Culture" (video). https://www.youtube.com/watch?v=xVk77VQuPAY 
+
 
 **Trace a Knowledge Infrastructure Assignment Due**
 
