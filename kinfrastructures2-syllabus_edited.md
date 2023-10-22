@@ -157,7 +157,13 @@ Nature and Space*, vol. 5, no. 1, 2019. https://doi.org/10.1177/2514848619867608
 
 
 ## October 23 (Monday) &ndash; Open Topic TBA
-Some possibilities: Open Source, Open Access, Knowledge Infrastructures of the Global South, Pedagogical Infrastructures
+* Domenico Fiormonte, Sukanta Chaudhari, and Paola Ricaurte, “Introduction.” In *Global Debates in the Digital Humanities*, edited by Domenico Fiormonte, Sukanta Chaudhari, and Paola Ricaurte. Minneapolis: University of Minnesota Press, 2022. https://dhdebates.gc.cuny.edu/read/global-debates-in-the-digital-humanities/section/e8110c52-f084-44d2-a29f-1ef4525ad1fe#intro 
+
+* Sayan Bhattacharyya, “Epistemically Produced Invisibility.” In *Global Debates in the Digital Humanities*, edited by Domenico Fiormonte, Sukanta Chaudhari, and Paola Ricaurte. Minneapolis: University of Minnesota Press, 2022. https://dhdebates.gc.cuny.edu/read/global-debates-in-the-digital-humanities/section/aa256742-ea03-4aaf-a1c7-5b925ccc22ac#ch01
+
+* Gimena del Rio Riande, “Digital Humanities and Visible and Invisible Infrastructures.” In *Global Debates in the Digital Humanities*, edited by Domenico Fiormonte, Sukanta Chaudhari, and Paola Ricaurte. Minneapolis: University of Minnesota Press, 2022. https://dhdebates.gc.cuny.edu/read/global-debates-in-the-digital-humanities/section/7383ee6b-52ce-48ff-b9e8-f63abdafc9a3#ch19 
+  
+* Schuyler Esprit, “Reframing Caribbean Narratives in Digital Spaces.” In *The Digital Black Atlantic*, edited by Roopika Risam and Kelly Baker Josephs. Minneapolis: University of Minnesota Press, 2021. https://dhdebates.gc.cuny.edu/read/the-digital-black-atlantic/section/47080ae0-2c12-4fa9-be79-9bac883a2e83#ch11
 
 
 ## October 30 (Monday) &ndash; Racial Infrastructures
