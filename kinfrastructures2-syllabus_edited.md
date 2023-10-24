@@ -156,7 +156,7 @@ Nature and Space*, vol. 5, no. 1, 2019. https://doi.org/10.1177/2514848619867608
 
 
 
-## October 23 (Monday) &ndash; Open Topic TBA
+## October 23 (Monday) &ndash; Knowledge Instructures of the Global South
 * Domenico Fiormonte, Sukanta Chaudhari, and Paola Ricaurte, “Introduction.” In *Global Debates in the Digital Humanities*, edited by Domenico Fiormonte, Sukanta Chaudhari, and Paola Ricaurte. Minneapolis: University of Minnesota Press, 2022. https://dhdebates.gc.cuny.edu/read/global-debates-in-the-digital-humanities/section/e8110c52-f084-44d2-a29f-1ef4525ad1fe#intro 
 
 * Sayan Bhattacharyya, “Epistemically Produced Invisibility.” In *Global Debates in the Digital Humanities*, edited by Domenico Fiormonte, Sukanta Chaudhari, and Paola Ricaurte. Minneapolis: University of Minnesota Press, 2022. https://dhdebates.gc.cuny.edu/read/global-debates-in-the-digital-humanities/section/aa256742-ea03-4aaf-a1c7-5b925ccc22ac#ch01
@@ -166,17 +166,17 @@ Nature and Space*, vol. 5, no. 1, 2019. https://doi.org/10.1177/2514848619867608
 * Schuyler Esprit, “Reframing Caribbean Narratives in Digital Spaces.” In *The Digital Black Atlantic*, edited by Roopika Risam and Kelly Baker Josephs. Minneapolis: University of Minnesota Press, 2021. https://dhdebates.gc.cuny.edu/read/the-digital-black-atlantic/section/47080ae0-2c12-4fa9-be79-9bac883a2e83#ch11
 
 
-## October 30 (Monday) &ndash; Racial Infrastructures
+## October 30 (Monday) &ndash; Global South Continued ; Racial Infrastructures
 
-* Biewen, John and Chenjerai Kumanyika, hosts. "How Race Was Made." *Seeing White*, season 2, episode 2, 1 Mar. 2017, https://sceneonradio.org/episode-32-how-race-was-made-seeing-white-part-2/
+* Masoud Ghorbaninejad, Nathan P. Gibson, and David Joseph Wrisley, "Right-to-Left (RTL) Text: Digital Humanists Plus Half a Billion Users." In *Debates in the Digital Humanities 2023*, edited by Matthew K. Gold and Lauren F. Klein. Minneapolis: University of Minnesota Press, 2023. [link forthcoming]
 
 * Johnson, Jessica Marie. "Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads." *Social Text*, vol. 36, no. 4, 2018, pp. 57-79. PDF file.
 
-* Mirzoeff, Nicolas. *White Sight: Visual Politics and Practices of Whiteness* (selections), Cambridge, MA: MIT Press, 2023. PDF file.
+* Tara McPherson, "Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation." In *Debates in the Digital Humanities*, edited by Matthew K. Gold. Minneapolis: University of Minnesota Press, 2012. https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/20df8acd-9ab9-4f35-8a5d-e91aa5f4a0ea#ch09
 
-* Benjamin, Ruha. *Race After Technology* (selections). 2019. PDF file.
+* Biewen, John and Chenjerai Kumanyika, hosts. "How Race Was Made." *Seeing White*, season 2, episode 2, 1 Mar. 2017, https://sceneonradio.org/episode-32-how-race-was-made-seeing-white-part-2/
 
-* Fielder, Brigitte, and Jonathan Senchyne. “Introduction: Infrastructures of African American Print.” *Against a Sharp White Background: Infrastructures of African American Print*, edited by Brigitte Fielder and Jonathan Senchyne, The University of Wisconsin Press, 2019, pp. 3–26, https://hcommons.org/deposits/item/hc:58369/. Accessed 29 Aug. 2023. 
+
 
 
 ## November 6 (Monday) &ndash; Platform Infrastructures
