@@ -185,7 +185,7 @@ Nature and Space*, vol. 5, no. 1, 2019. https://doi.org/10.1177/2514848619867608
 
 * Srnicek, Nick. *Platform Capitalism* (selections), 2016. PDF file.
 
-* Gillespie, Tarleton. *Custodians of the Internet* (selections), 2018. PDF file.
+* Laura Kurgan, Dare Brawley, Brian House, Jia Zhang, and Wendy Hui Kyong Chun, “Homophily: The Urban History of an Algorithm.” *e-flux* (October 2019) https://www.e-flux.com/architecture/are-friends-electric/289193/homophily-the-urban-history-of-an-algorithm/
 
 * Zuboff, Shoshana. *Age of Surveillance Capitalism* (selections), 2018. PDF file.
 
@@ -193,8 +193,6 @@ Nature and Space*, vol. 5, no. 1, 2019. https://doi.org/10.1177/2514848619867608
 ## November 13 (Monday) &ndash; Algorithmic Infrastructures
 
 * Amoore, Louise. *Cloud Ethics: Algorithms and the Attributes of Ourselves and Others* (selections), 2020. PDF file.
-
-* Hui Kyong Chun, Wendy. *Discriminating Data: Correlation, Neighborhoods, and the New Politics of Recognition* (selections), 2024.
 
 * Bratton, Benjamin H. *The Stack: On Software and Sovereignty* (selections), 2016. PDF file.
 
