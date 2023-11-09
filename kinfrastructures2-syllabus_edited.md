@@ -192,8 +192,6 @@ Nature and Space*, vol. 5, no. 1, 2019. https://doi.org/10.1177/2514848619867608
 
 ## November 13 (Monday) &ndash; Algorithmic Infrastructures
 
-* Amoore, Louise. *Cloud Ethics: Algorithms and the Attributes of Ourselves and Others* (selections), 2020. PDF file.
-
 * Bratton, Benjamin H. *The Stack: On Software and Sovereignty* (selections), 2016. PDF file.
 
 
