@@ -197,7 +197,7 @@ Nature and Space*, vol. 5, no. 1, 2019. https://doi.org/10.1177/2514848619867608
 
 ## November 20 (Monday) &ndash; University Infrastructures
 
-* Fabricant, Michael and Stephen Brier. *Austerity Blues: Fighting for the Soul of Public Higher Education* (selections). Baltimore: Johns Hopkins University Press, 2016. Introduction and Chapter 7: "Technology as a 'Magic Bullet'
+* Fabricant, Michael and Stephen Brier. *Austerity Blues: Fighting for the Soul of Public Higher Education* (selections). Baltimore: Johns Hopkins University Press, 2016. Introduction and Chapter 6: "Technology as a 'Magic Bullet'
 in an Era of Austerity" [Project Muse] (https://muse-jhu-edu.ezproxy.gc.cuny.edu/book/47913/)
 
 * Harney, Stefano and Fred Moten. *The Undercommons: Fugitive Planning & Black Study* (selections). Wivenhoe: Minor Compositions, 2013. Ch 2: The University and the Undercommons https://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf 
