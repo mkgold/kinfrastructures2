@@ -203,11 +203,23 @@ in an Era of Austerity" [Project Muse] (https://muse-jhu-edu.ezproxy.gc.cuny.edu
 * Harney, Stefano and Fred Moten. *The Undercommons: Fugitive Planning & Black Study* (selections). Wivenhoe: Minor Compositions, 2013. Ch 2: The University and the Undercommons https://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf 
 
 
-## November 27 (Monday) &ndash; Geopolitics of Technical Infrastructures
+## November 27 (Monday) &ndash; The Open Pedagogy and The Big Business of EdTech: Looking at the LMS Market
 
-* Starosielski, Nicole. “Fixed Flow: Undersea Cables as Media Infrastructure.” *Signal Traffic: Critical Studies of Media Infrastructures*, edited by Lisa Parks and Nicole Starosielski, University of Illinois Press, Urbana, 2015, pp. 53–70. PDF file. 
+Paolo Freire, _Pedagogy of the Oppressed_, pp 71-77. https://envs.ucsc.edu/internships/internship-readings/freire-pedagogy-of-the-oppressed.pdf
 
-* Hu, Tung-Hui. *A Prehistory of the Cloud* (selections). Cambridge, MA: MIT Press, 2016. PDF file.
+Mark Brenden. "Learning and Management during and after the Pandemic: Reading Student Resistance to LMS." _Pedagogy_ 1 April 2023; 23 (2): 297–309. doi: https://doi.org/10.1215/15314200-10296007 (available with CUNY login)
+
+Phil Hill, "Why Instructure’s News Matters: Market history." _On EdTech Newsletter_. November 18, 2019. https://onedtech.philhillaa.com/p/why-instructures-news-matters-market-history
+
+Phil Hill, "State of Higher Ed LMS Market for US and Canada: Year-End 2022 Edition." _On EdTech Newsletter_. January 31, 2023. [https://onedtech.philhillaa.com/p/why-instructures-news-matters-market-history](https://onedtech.philhillaa.com/p/state-of-higher-ed-lms-market-for-us-and-canada-year-end-2022-edition)
+
+Phil Hill, "LMS Market Changes: SUNY announces switch from Blackboard Learn to D2L Brightspace." _On EdTech Newsletter_. October 04, 2021. [https://onedtech.philhillaa.com/p/why-instructures-news-matters-market-history](https://onedtech.philhillaa.com/p/state-of-higher-ed-lms-market-for-us-and-canada-year-end-2022-edition)
+
+Michael Feldstein. "Instructure’s Proposed Acquisition is a Bad Risk for Everyone." _eLiterate_. January 5, 2020. https://eliterate.us/instructures-proposed-acquisition-is-a-bad-risk-for-everyone/ 
+
+Jeffrey R. Young. "As Instructure Changes Ownership, Academics Worry Whether Student Data Will Be Protected." _EdSurge_. Jan 17, 2020. https://www.edsurge.com/news/2020-01-17-as-instructure-changes-ownership-academics-worry-whether-student-data-will-be-protected
+
+Global Market Insights. "Learning Management System (LMS) Market." (summary). July 2023. https://www.gminsights.com/industry-analysis/learning-management-system-lms-market
 
 
 ## December 4 (Monday) &ndash; Collective Intervention Work
