@@ -211,11 +211,13 @@ Mark Brenden. "Learning and Management during and after the Pandemic: Reading St
 
 Phil Hill, "Why Instructure’s News Matters: Market history." _On EdTech Newsletter_. November 18, 2019. https://onedtech.philhillaa.com/p/why-instructures-news-matters-market-history
 
+Michael Feldstein. "Instructure’s Proposed Acquisition is a Bad Risk for Everyone." _eLiterate_. January 5, 2020. https://eliterate.us/instructures-proposed-acquisition-is-a-bad-risk-for-everyone/ 
+
+Further Resources (please skim):
+
 Phil Hill, "State of Higher Ed LMS Market for US and Canada: Year-End 2022 Edition." _On EdTech Newsletter_. January 31, 2023. [https://onedtech.philhillaa.com/p/why-instructures-news-matters-market-history](https://onedtech.philhillaa.com/p/state-of-higher-ed-lms-market-for-us-and-canada-year-end-2022-edition)
 
 Phil Hill, "LMS Market Changes: SUNY announces switch from Blackboard Learn to D2L Brightspace." _On EdTech Newsletter_. October 04, 2021. [https://onedtech.philhillaa.com/p/why-instructures-news-matters-market-history](https://onedtech.philhillaa.com/p/state-of-higher-ed-lms-market-for-us-and-canada-year-end-2022-edition)
-
-Michael Feldstein. "Instructure’s Proposed Acquisition is a Bad Risk for Everyone." _eLiterate_. January 5, 2020. https://eliterate.us/instructures-proposed-acquisition-is-a-bad-risk-for-everyone/ 
 
 Jeffrey R. Young. "As Instructure Changes Ownership, Academics Worry Whether Student Data Will Be Protected." _EdSurge_. Jan 17, 2020. https://www.edsurge.com/news/2020-01-17-as-instructure-changes-ownership-academics-worry-whether-student-data-will-be-protected
 
