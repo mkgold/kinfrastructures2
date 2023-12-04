@@ -224,7 +224,7 @@ Jeffrey R. Young. "As Instructure Changes Ownership, Academics Worry Whether Stu
 Global Market Insights. "Learning Management System (LMS) Market." (summary). July 2023. https://www.gminsights.com/industry-analysis/learning-management-system-lms-market
 
 
-## December 4 (Monday) &ndash; Collective Intervention Work
+## December 4 (Monday) &ndash; [Project Lab](https://github.com/mkgold/project-lab/blob/kinfrastructures-2023-project-lab/README.md) + Collective Intervention Work
 
 
 ## December 11 (Monday) &ndash; Collective Intervention Presentation and Discussion
