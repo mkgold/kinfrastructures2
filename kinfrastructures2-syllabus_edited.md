@@ -224,7 +224,9 @@ Jeffrey R. Young. "As Instructure Changes Ownership, Academics Worry Whether Stu
 Global Market Insights. "Learning Management System (LMS) Market." (summary). July 2023. https://www.gminsights.com/industry-analysis/learning-management-system-lms-market
 
 
-## December 4 (Monday) &ndash; [Project Lab](https://github.com/mkgold/project-lab/blob/kinfrastructures-2023-project-lab/README.md) + Collective Intervention Work
+## December 4 (Monday) &ndash; Collective Intervention Work
+
+[Project Lab](https://github.com/mkgold/project-lab/blob/kinfrastructures-2023-project-lab/README.md)
 
 
 ## December 11 (Monday) &ndash; Collective Intervention Presentation and Discussion
@@ -233,6 +235,8 @@ Global Market Insights. "Learning Management System (LMS) Market." (summary). Ju
 
 ## December 15
 **Reflections on Collective Intervention Due**
+
+Assignment: write 2-3 pages (500-750 words, roughly) reflecting on your participation in the Collective intervention, putting that participation and the project as a whole within the context of your work in the course and your interests in the subject of the class moving forward. Some questions to consider: what parts of the project most interested you? What parts of the class might you be able to pursue in your work moving forward?
 
 
 
