@@ -13,7 +13,7 @@ CUNY Graduate Center | Mondays 4:15PM-6:15PM | Room 3310A | 2/3/4 credits
 Meetings: Please contact [Oliver Sage](osage@gradcenter.cuny.edu) to make an appointment with me. Please do not hesitate to get in touch if you want to talk.
 
 Room 5307.04
-&2c=*=O+4e5M
+
 # Course Description
 
 Infrastructure is all around us, rarely remarked upon. Indeed, the latent state of infrastructure is part of what marks it as such; as Susan Leigh Starr has noted, infrastructure studies involves the study of "boring things."
